@@ -1,0 +1,12 @@
+{
+    "name": "otmakhov/hexlet-tests",
+    "authors": [
+        {
+            "name": "otmakhov",
+            "email": "otmakhov1990@gmail.com"
+        }
+    ],
+    "require": {
+        "webmozart/assert": "^1.10"
+    }
+}
